@@ -1,0 +1,24 @@
+{
+  "name": "projectshd",
+  "version": "1.0.0",
+  "description": "just another empty proyect",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shherardd/GitWorkflow.git"
+  },
+  "keywords": [
+    "test",
+    "git",
+    "workflow"
+  ],
+  "author": "luis gerardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shherardd/GitWorkflow/issues"
+  },
+  "homepage": "https://github.com/Shherardd/GitWorkflow#readme"
+}
