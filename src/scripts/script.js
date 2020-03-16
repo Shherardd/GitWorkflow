@@ -1,6 +1,6 @@
 function setup(){
     createCanvas(window.innerWidth, window.innerHeight);
-    console.log(random());
+    console.log(random(100));
 }
 
 function draw(){
