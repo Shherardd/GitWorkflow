@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Shherardd/GitWorkflow/issues"
   },
-  "homepage": "https://github.com/Shherardd/GitWorkflow#readme"
+  "homepage": "https://github.com/Shherardd/GitWorkflow#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
