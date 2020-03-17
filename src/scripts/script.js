@@ -1,6 +1,6 @@
 function setup(){
     createCanvas(window.innerWidth, window.innerHeight);
-
+    console.log(random());
 }
 
 function draw(){
@@ -15,4 +15,12 @@ function draw(){
         fill(100);
     } */
 
+}
+
+class Particle {
+    constructor(){
+        // Position 
+        this.pos = createVector(x, y);
+
+    }
 }
